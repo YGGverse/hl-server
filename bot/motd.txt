@@ -5,7 +5,7 @@ Max players: 8
 Max bots: 4, level 3/5
 
 Yggdrasil:
-[201:5eb5:f061:678e:7565:6338:c02c:5251]:27015 or yggverse.dedyn.io:27015
+[201:5eb5:f061:678e:7565:6338:c02c:5251]:27015 | hl.ygg:27015 | hl.ygg.at:27015
 
 Clearnet:
 94.140.114.89:27015
@@ -13,8 +13,11 @@ Clearnet:
 Public peer:
 tls://94.140.114.89:4708
 
+Master:
+hl.ygg:27010
+
 Chat:
-kevachat.ygg
+chat.hl.ygg
 
 Stats:
-hlstate.ygg
+hl.ygg
