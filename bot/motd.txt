@@ -2,7 +2,7 @@ Welcome to YGGverse!
 
 Map: crossfire
 Max players: 8
-Max bots: 4, level 3/5
+Max bots: 5, level 3/5
 
 Yggdrasil / Clearnet:
 hl.ygg:27015 | hl.ygg.at:27015 / 94.140.114.89:27015
