@@ -13,4 +13,4 @@ sound/weapons/mortarhit.wav
 sound/weapons/sbarrel1.wav
 sprites/muzzleflash1.spr
 sprites/steam1.spr
-models/player/putin/putin.mdl
+models/player/putin/huylo.mdl
